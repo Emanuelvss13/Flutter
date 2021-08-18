@@ -3,7 +3,7 @@
   
   <p>Link 
     
-    <a>https://app.rocketseat.com.br/node/mission-flutter</a>
+    https://app.rocketseat.com.br/node/mission-flutter
   
   </p>
 </div>
