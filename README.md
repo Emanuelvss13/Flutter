@@ -1,5 +1,9 @@
 <div align="center" >
-  <h1>Repositório para projetos em Flutter</h1>
+  <h1>Repositório da NLW de flutter</h1>
   
-  ![flutter logo](https://miro.medium.com/max/512/1*20zBKPKIjnIR1yiE27oLsQ.png)
+  <p>Link 
+    
+    https://app.rocketseat.com.br/node/mission-flutter
+  
+  </p>
 </div>
