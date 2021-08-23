@@ -4,11 +4,14 @@ import 'package:payflow_flutter/shared/themes/app_colors.dart';
 
 class AppText {
   static final titleHome = GoogleFonts.lexendDeca(
-      fontSize: 32, fontWeight: FontWeight.w600, color: AppColors.heading);
+    fontSize: 32,
+    fontWeight: FontWeight.w600,
+    color: AppColors.heading,
+  );
   static final titleRegular = GoogleFonts.lexendDeca(
     fontSize: 20,
     fontWeight: FontWeight.w400,
-    color: AppColors.heading,
+    color: AppColors.background,
   );
   static final titleBoldHeading = GoogleFonts.lexendDeca(
     fontSize: 20,
@@ -75,32 +78,32 @@ class AppText {
     fontWeight: FontWeight.w700,
     color: AppColors.background,
   );
-  static final captionBackground = GoogleFonts.lexendDeca(
+  static final captionBackground = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w400,
     color: AppColors.background,
   );
-  static final captionShape = GoogleFonts.lexendDeca(
+  static final captionShape = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w400,
     color: AppColors.shape,
   );
-  static final captionBody = GoogleFonts.lexendDeca(
+  static final captionBody = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w400,
     color: AppColors.body,
   );
-  static final captionBoldBackground = GoogleFonts.lexendDeca(
+  static final captionBoldBackground = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w600,
     color: AppColors.background,
   );
-  static final captionBoldShape = GoogleFonts.lexendDeca(
+  static final captionBoldShape = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w600,
     color: AppColors.shape,
   );
-  static final captionBoldBody = GoogleFonts.lexendDeca(
+  static final captionBoldBody = GoogleFonts.inter(
     fontSize: 13,
     fontWeight: FontWeight.w600,
     color: AppColors.body,
